@@ -1,0 +1,6 @@
+/Kelp-Module-SendFile-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
