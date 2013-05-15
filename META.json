@@ -1,5 +1,5 @@
 {
-   "abstract" : "Blah blah blah",
+   "abstract" : "Dancer-style file sending with Kelp",
    "author" : [
       "Gurunandan R. Bhat <gbhat@pobox.com>"
    ],
@@ -46,6 +46,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/Bhat-Gurunandan/Kelp-Module-SendFile/issues"
+      },
+      "homepage" : "https://github.com/Bhat-Gurunandan/Kelp-Module-SendFile",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/Bhat-Gurunandan/Kelp-Module-SendFile.git",
+         "web" : "https://github.com/Bhat-Gurunandan/Kelp-Module-SendFile"
+      }
+   },
    "version" : "0.01"
 }
 
